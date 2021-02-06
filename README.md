@@ -2,9 +2,10 @@
 <h1 align="center">  Simon Game </h1>
 
 <hr/>
+
 ## Demo
 
-Try the Simon Game [here]()
+Try the Simon Game [here](https://meryemba.github.io/simon-game/)
 
 ![Simon Game](./src/images/simon-game.png)
 
